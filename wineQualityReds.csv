@@ -1,4 +1,4 @@
-"","fixed.acidity"",""volatile.acidity"",""citric.acid"",""residual.sugar"",""chlorides"",""free.sulfur.dioxide"",""total.sulfur.dioxide"",""density"",""pH"",""sulphates"",""alcohol"",""quality"""
+,"fixed.acidity"",""volatile.acidity"",""citric.acid"",""residual.sugar"",""chlorides"",""free.sulfur.dioxide"",""total.sulfur.dioxide"",""density"",""pH"",""sulphates"",""alcohol"",""quality"""
 1,7.1,0.6,0.01,2.3,0.079,12,35,0.9972,3.4,0.58,9.5,5
 2,7.6,0.78,0.02,2.8,0.081,24,67,0.9966,3.28,0.6,9.8,5
 3,7.9,0.76,0.03,2.2,0.093,14,55,0.9968,3.25,0.65,9.7,5
